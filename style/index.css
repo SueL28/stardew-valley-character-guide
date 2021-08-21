@@ -638,7 +638,7 @@ a {
   .character-button-vincent {
     background: none;
     border: none;
-    transition: all 150ms ease-in-out;
+    transition: all 1s50ms ease-in-out;
   }
 
   .character-button-vincent:hover {
